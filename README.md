@@ -1,17 +1,17 @@
 **GadaGitGit**
 
-https://github.com/hizzybabe/webgen - **alpha test release**
+[Webgen](https://github.com/hizzybabe/webgen) - **alpha test release**
 
-https://github.com/hizzybabe/contentgen - **alpha test release**
+[Contentgen](https://github.com/hizzybabe/contentgen) - **alpha test release**
 
-https://github.com/hizzybabe/promptenhancer - **alpha test release**
+[Promptenhancer](https://github.com/hizzybabe/promptenhancer) - **alpha test release**
 
-https://github.com/hizzybabe/bulkimg - **wip nearly alpha*
+[Bulkimg](https://github.com/hizzybabe/bulkimg) - **wip nearly alpha*
 
-https://github.com/hizzybabe/ratemyprompt - **wip nearly alpha*
+[Ratemyprompt](https://github.com/hizzybabe/ratemyprompt) - **wip nearly alpha*
 
-https://github.com/hizzybabe/txt-2-color-palette - **wip migrating in from Heroku*
+[Txt2ColorPalette](https://github.com/hizzybabe/txt-2-color-palette) - **wip migrating in from Heroku*
 
-https://github.com/hizzybabe/rolegen - **wip working on alpha*
+[Rolegen](https://github.com/hizzybabe/rolegen) - **wip working on alpha*
 
-https://github.com/hizzybabe/ez-ai-summarizer - **wip working on more features*
+[AI Text Summarizer](https://github.com/hizzybabe/ez-ai-summarizer) - **wip working on more features*
