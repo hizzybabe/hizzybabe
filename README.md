@@ -2,9 +2,9 @@
 
 https://github.com/hizzybabe/webgen - **alpha test release**
 
-https://github.com/hizzybabe/contentgen - alpha test
+https://github.com/hizzybabe/contentgen - **alpha test release**
 
-https://github.com/hizzybabe/promptenhancer - alpha test
+https://github.com/hizzybabe/promptenhancer - **alpha test release**
 
 https://github.com/hizzybabe/bulkimg - **wip nearly alpha*
 
