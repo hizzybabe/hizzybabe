@@ -22,14 +22,14 @@ A web application that generates customized AI role prompts using Google's Gemin
 
 TXTSUM is a web application that uses artificial intelligence to generate concise summaries of input text.
 
-### [Ratemyprompt](https://github.com/hizzybabe/ratemyprompt) - **alpha test release**
+### :white_check_mark: [Ratemyprompt](https://github.com/hizzybabe/ratemyprompt) - **alpha test release**
 
 A web application utilizes Google's Gemini AI to enhance users' AI prompts through ratings and feedback.
 
-[Bulkimg](https://github.com/hizzybabe/bulkimg) - **wip nearly alpha*
+:framed_picture: [Bulkimg](https://github.com/hizzybabe/bulkimg) - **wip nearly alpha*
 
-[Txt2ColorPalette](https://github.com/hizzybabe/txt-2-color-palette) - **wip migrating in from Heroku*
+:art: [Txt2ColorPalette](https://github.com/hizzybabe/txt-2-color-palette) - **wip migrating in from Heroku*
 
-### [Idlerpg](https://github.com/hizzybabe/idlerpg) - **alpha test release**
+### :crossed_swords: [Idlerpg](https://github.com/hizzybabe/idlerpg) - **alpha test release**
 
 A simple browser-based idle RPG game with roguelike elements, built using vanilla HTML, CSS, and JavaScript.
