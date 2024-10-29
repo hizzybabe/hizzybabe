@@ -1,5 +1,7 @@
 **GadaGitGit**
 
+![aicrate01-series](aicrate01.png)
+
 [Webgen](https://github.com/hizzybabe/webgen) - **alpha test release**
 
 [Contentgen](https://github.com/hizzybabe/contentgen) - **alpha test release**
