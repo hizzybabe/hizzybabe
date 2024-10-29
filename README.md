@@ -18,7 +18,7 @@ Prompt Enhancer is a web application that utilizes the Gemini API to enhance use
 
 A web application that generates customized AI role prompts using Google's Gemini AI.
 
-### [AI Text Summarizer](https://github.com/hizzybabe/ez-ai-summarizer) - **wip working on more features**
+### [AI Text Summarizer](https://github.com/hizzybabe/ez-ai-summarizer) - **alpha test release + working on new features**
 
 TXTSUM is a web application that uses artificial intelligence to generate concise summaries of input text.
 
