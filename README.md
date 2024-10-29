@@ -2,7 +2,7 @@
 
 ![aicrate01-series](aicrate01.png)
 
-### [Webgen](https://github.com/hizzybabe/webgen) - **alpha test release**
+### :desktop_computer: [Webgen](https://github.com/hizzybabe/webgen) - **alpha test release**
 
 A web-based tool that generates custom webpage code using Google's Gemini AI. Users can specify their preferred CSS framework, page type, components, JavaScript features, and color palette to generate tailored webpage code.
 
