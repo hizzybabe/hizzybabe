@@ -30,6 +30,8 @@ A web application utilizes Google's Gemini AI to enhance users' AI prompts throu
 
 :art: [Txt2ColorPalette](https://github.com/hizzybabe/txt-2-color-palette) - **wip migrating in from Heroku*
 
+![game-banner](gamebanner.png)
+
 ### :crossed_swords: [Idlerpg](https://github.com/hizzybabe/idlerpg) - **alpha test release**
 
 A simple browser-based idle RPG game with roguelike elements, built using vanilla HTML, CSS, and JavaScript.
