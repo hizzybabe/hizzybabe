@@ -14,7 +14,7 @@ This web application leverages Google’s Gemini AI to create content based on u
 
 Prompt Enhancer is a web application that utilizes the Gemini API to enhance user prompts efficiently.
 
-### [Rolegen](https://github.com/hizzybabe/rolegen) - **wip working on alpha*
+### [Rolegen](https://github.com/hizzybabe/rolegen) - **alpha test release**
 
 A web application that generates customized AI role prompts using Google's Gemini AI.
 
