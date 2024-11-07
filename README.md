@@ -35,3 +35,8 @@ A web application utilizes Google's Gemini AI to enhance users' AI prompts throu
 ### :crossed_swords: [Idlerpg](https://github.com/hizzybabe/idlerpg) - **alpha test release**
 
 A simple browser-based idle RPG game with roguelike elements, built using vanilla HTML, CSS, and JavaScript.
+
+
+### :white_check_mark: [Cloud Directory](https://techwizard.club/) - **alpha test release**
+
+A simple directory of cloud service providers, web hosting, and other tech resources (eg. tools, tutorials, etc.)
