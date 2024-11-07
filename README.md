@@ -39,4 +39,4 @@ A simple browser-based idle RPG game with roguelike elements, built using vanill
 
 ### :white_check_mark: [Cloud Directory](https://techwizard.club/) - **alpha test release**
 
-A simple directory of cloud service providers, web hosting, and other tech resources (eg. tools, tutorials, etc.)
+A directory of cloud service providers, web hosting, and other tech resources (eg. tools, tutorials, etc.)
