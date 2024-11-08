@@ -40,3 +40,7 @@ A simple browser-based idle RPG game with roguelike elements, built using vanill
 ### :white_check_mark: [Cloud Directory](https://techwizard.club/) - **alpha test release**
 
 A directory of cloud service providers, web hosting, and other tech resources (eg. tools, tutorials, etc.)
+
+### :white_check_mark: [HTMLKit](https://hizzybabe.github.io/HTMLKit/), [HTMLKit Repo](https://github.com/hizzybabe/HTMLKit) - **alpha test release**
+
+Resource packages for HTML, CSS, JavaScript, and other web development frameworks, libraries (Astro, Tailwind, Svelte, etc.)
