@@ -8,6 +8,8 @@ A directory of cloud service providers, web hosting, and other tech resources (e
 
 Resource packages for HTML, CSS, JavaScript, and other web development frameworks, libraries (Astro, Tailwind, Svelte, etc.)
 
+-----------------------------------------------
+
 ![aicrate01-series](aicrate01.png)
 
 ### :desktop_computer: [Webgen](https://github.com/hizzybabe/webgen) - **alpha test release**
@@ -37,6 +39,8 @@ A web application utilizes Google's Gemini AI to enhance users' AI prompts throu
 :framed_picture: [Bulkimg](https://github.com/hizzybabe/bulkimg) - **wip nearly alpha*
 
 :art: [Txt2ColorPalette](https://github.com/hizzybabe/txt-2-color-palette) - **wip migrating in from Heroku*
+
+-----------------------------------------------
 
 ![game-banner](gamebanner.png)
 
