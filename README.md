@@ -1,5 +1,13 @@
 > **GadaGitGit**
 
+### :white_check_mark: [Cloud Directory](https://techwizard.club/) - **alpha test release**
+
+A directory of cloud service providers, web hosting, and other tech resources (eg. tools, tutorials, etc.)
+
+### :white_check_mark: [HTMLKit](https://hizzybabe.github.io/HTMLKit/), [HTMLKit Repo](https://github.com/hizzybabe/HTMLKit) - **alpha test release**
+
+Resource packages for HTML, CSS, JavaScript, and other web development frameworks, libraries (Astro, Tailwind, Svelte, etc.)
+
 ![aicrate01-series](aicrate01.png)
 
 ### :desktop_computer: [Webgen](https://github.com/hizzybabe/webgen) - **alpha test release**
@@ -35,12 +43,3 @@ A web application utilizes Google's Gemini AI to enhance users' AI prompts throu
 ### :crossed_swords: [Idlerpg](https://github.com/hizzybabe/idlerpg) - **alpha test release**
 
 A simple browser-based idle RPG game with roguelike elements, built using vanilla HTML, CSS, and JavaScript.
-
-
-### :white_check_mark: [Cloud Directory](https://techwizard.club/) - **alpha test release**
-
-A directory of cloud service providers, web hosting, and other tech resources (eg. tools, tutorials, etc.)
-
-### :white_check_mark: [HTMLKit](https://hizzybabe.github.io/HTMLKit/), [HTMLKit Repo](https://github.com/hizzybabe/HTMLKit) - **alpha test release**
-
-Resource packages for HTML, CSS, JavaScript, and other web development frameworks, libraries (Astro, Tailwind, Svelte, etc.)
