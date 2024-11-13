@@ -4,6 +4,10 @@
 
 A directory of cloud service providers, web hosting, and other tech resources (eg. tools, tutorials, etc.)
 
+### :white_check_mark: [AI Tools Directory](https://theappshub.xom/) - **alpha test release**
+
+A directory of AI tools, AI services, and AI resources (eg. tools, tutorials, etc.)
+
 ### :white_check_mark: [HTMLKit](https://hizzybabe.github.io/HTMLKit/), [HTMLKit Repo](https://github.com/hizzybabe/HTMLKit) - **alpha test release**
 
 Resource packages for HTML, CSS, JavaScript, and other web development frameworks, libraries (Astro, Tailwind, Svelte, etc.)
