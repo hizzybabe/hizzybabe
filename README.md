@@ -14,11 +14,11 @@ Resource packages for HTML, CSS, JavaScript, and other web development framework
 
 ### :computer: [Tech Blog](https://nerktech.com/) - **live site**
 
-Saas, Lifetime Deals, Tech Career Paths, etc
+Saas, Lifetime Deals, Tech Career Paths, etc (no open-source repo)
 
 ### :chart: [Investing Blog](https://moderninvest.net/) - **live site**
 
-ETFs, Crypto, Investing Academy, etc
+ETFs, Crypto, Investing Academy, etc (no open-source repo)
 
 -----------------------------------------------
 
