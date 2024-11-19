@@ -8,9 +8,17 @@ A directory of cloud service providers, web hosting, and other tech resources (e
 
 A directory of AI tools, AI services, and AI resources (eg. tools, tutorials, etc.)
 
-### :white_check_mark: [HTMLKit](https://hizzybabe.github.io/HTMLKit/) - **beta release**
+### :white_check_mark: [HTMLKit](https://hizzybabe.github.io/HTMLKit/) - **alpha test**
 
 Resource packages for HTML, CSS, JavaScript, and other web development frameworks, libraries (Astro, Tailwind, Svelte, etc.)
+
+### :computer: [Tech Blog](https://nerktech.com/) - **live site**
+
+Saas, Lifetime Deals, Tech Career Paths, etc
+
+### :chart: [Investing Blog](https://moderninvest.net/) - **live site**
+
+ETFs, Crypto, Investing Academy, etc
 
 -----------------------------------------------
 
